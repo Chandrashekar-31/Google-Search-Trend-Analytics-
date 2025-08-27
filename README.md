@@ -8,9 +8,9 @@ Tech Stack
 
 Programming Language: Python
 
-Libraries: Pandas, Matplotlib, Seaborn, NumPy
+Libraries: Pandas, Matplotlib, Seaborn,Pytrends
 
-Environment: Jupyter Notebook
+Environment: VSCODE
 
 Features
 
